@@ -1,0 +1,35 @@
+.loginbox {
+    border: 2px solid rgb(128, 128, 128); 
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.flashbox {
+    /* width: 40%; */
+    border: 2px solid black;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+    border-radius: 10px;
+    margin: 15px auto;
+    padding: 5px;
+}
+
+.warning {
+    background-color: rgb(189, 113, 0);
+}
+
+.error {
+    background-color: brown;
+}
+
+.info {
+    /* background-color: #007bff; */
+    background-color: #007bff;
+}
+
+.welcome {
+    width: 50%;
+    background-color: #17d13f;
+}
